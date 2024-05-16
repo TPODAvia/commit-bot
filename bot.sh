@@ -38,6 +38,7 @@ echo
 
 # Ship it
 git add output.txt
+git add test\
 git commit -m "$info"
 git push origin main # or "master" on old setups
 
